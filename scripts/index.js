@@ -1,4 +1,4 @@
-const API_KEY = 'g69AfOacOog0zsLhXwye7ptAgBAQDYa4GHulTaBe'
+const API_KEY = 'ADD-API-KEY-HERE'
 const API_URL = `https://api.nasa.gov/insight_weather/?api_key=${API_KEY}&feedtype=json&ver=1.0`
 
 const currentSolElement = document.querySelector('[data-current-sol]')
