@@ -1,3 +1,3 @@
 # Mars-Wather
 
-<img src="mars weather.png" width="750" height="900">
+<img src="mars weather.png" width="950" height="900">
